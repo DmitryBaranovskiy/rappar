@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="768px" height="1024px" viewBox="0 0 768 1024" enable-background="new 0 0 768 1024" xml:space="preserve">
+<ellipse fill="#FFFFFF" stroke="#000000" cx="56.711" cy="36.605" rx="22.632" ry="9.474"/>
+<circle fill="#FFFFFF" stroke="#000000" cx="51.448" cy="64.5" r="6.842"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-56.2485" y1="-208.207" x2="-28.6466" y2="-189.0053" gradientTransform="matrix(1 0 0 1 156 231)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="100.395" y="21.869" fill="url(#SVGID_1_)" stroke="#000000" width="26.316" height="21.052"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-65.1733" y1="-162.2183" x2="-40.9629" y2="-145.376" gradientTransform="matrix(1 0 0 1 156 231)">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<rect x="75.132" y="54.5" fill="url(#SVGID_2_)" stroke="#000000" width="22.104" height="22.104"/>
+<line fill="none" stroke="#000000" x1="151.974" y1="36.605" x2="113.026" y2="75.553"/>
+<path fill="#FFFFFF" stroke="#000000" d="M42.5,117.658c0,0,57.369-28.947,86.316,0c28.947,28.947-23.158,40.526-41.053,34.737"/>
+<radialGradient id="SVGID_3_" cx="12.29" cy="-150.71" r="14.21" gradientTransform="matrix(1 0 0 1 156 231)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.5879" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#999999"/>
+</radialGradient>
+<circle fill="url(#SVGID_3_)" stroke="#000000" cx="168.29" cy="80.29" r="14.21"/>
+<image overflow="visible" enable-background="new    " width="910" height="606" xlink:href="C12259DD.jpeg"  transform="matrix(0.076 -0.0276 0.0276 0.076 176.7632 23.5391)">
+</image>
+<text transform="matrix(0.9746 0.2241 -0.2241 0.9746 90.5 92.4985)" font-family="'MyriadPro-Regular'" font-size="12.0004">text here.</text>
+</svg>
