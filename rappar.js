@@ -534,7 +534,7 @@ function applyStyle(css, el, aa) {
 
 
 
-var files = process.ARGV.slice(0);
+var files = process.argv.slice(0);
 if (files.length > 2) {
     var svg = fs.readFileSync(files[2], "utf-8");
     console.log(JSON.stringify(rappar(svg)));
