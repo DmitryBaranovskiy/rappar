@@ -436,7 +436,7 @@ function rappar(svg) {
         for (var i = 0, ii = grad.stops.length; i < ii; i++) {
             stop = grad.stops[i];
             if (i && i != ii - 1) {
-                s.push(stop.offset + ":" + stop.color);
+                s.push(stop.color + ":" + stop.offset);
             } else {
                 s.push(stop.color);
             }
@@ -456,7 +456,7 @@ function rappar(svg) {
         for (var i = 0, ii = grad.stops.length; i < ii; i++) {
             stop = grad.stops[i];
             if (i && i != ii - 1) {
-                s.push(stop.offset + ":" + stop.color);
+                s.push(stop.color + ":" + stop.offset);
             } else {
                 s.push(stop.color);
             }
