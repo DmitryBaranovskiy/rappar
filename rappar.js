@@ -217,7 +217,7 @@ function Matrix(a, b, c, d, e, f) {
         return x * this.b + y * this.d + this.f;
     };
     matrixproto.get = function (i) {
-        return +this[Str.fromCharCode(97 + i)].toFixed(4);
+        return +this[String.fromCharCode(97 + i)].toFixed(4);
     };
     matrixproto.toString = function () {
         return R.svg ?
